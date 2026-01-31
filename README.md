@@ -15,7 +15,7 @@ This notebook:
 
 ---
 
-## Key Results (from the notebook)
+## Key Results
 - Built a baseline Random Forest classifier to predict high extreme-weather activity.
 - Evaluated performance using confusion matrix and ROC curve.
 - Initial approach produced **AUC ≈ 0.48** (near random baseline).
