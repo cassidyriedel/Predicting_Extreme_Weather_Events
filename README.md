@@ -8,10 +8,10 @@ A machine learning and data analysis project that explores global climate and so
 Can we use climate and socioeconomic features to predict whether a country-year will experience “high” extreme weather activity?
 
 This notebook:
-- cleans + explores a multi-country dataset (2000–2023),
-- engineers labels for “high extreme events,”
-- trains and evaluates classification models,
-- interprets drivers with feature importance.
+- cleans and explores a multi-country dataset (2000–2023)
+- engineers labels for “high extreme events”
+- trains and evaluates classification models
+- interprets drivers with feature importance
 
 ---
 
