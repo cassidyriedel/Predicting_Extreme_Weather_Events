@@ -5,7 +5,7 @@ A machine learning and data analysis project that explores global climate and so
 ---
 
 ## Research Goal
-Can we use climate + socioeconomic features to predict whether a country-year will experience “high” extreme weather activity?
+Can we use climate and socioeconomic features to predict whether a country-year will experience “high” extreme weather activity?
 
 This notebook:
 - cleans + explores a multi-country dataset (2000–2023),
